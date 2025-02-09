@@ -10,5 +10,6 @@ Bem-vindo à **S/code**! Somos uma startup focada em **automação, gerenciament
 
 ## 📬 Contato
 📧 Email: [scode.team2025@gmail.com](mailto:scode.team2025@gmail.com)  
-🌐 GitHub: [SCodeTeamDev](https://github.com/SCodeTeamDev)
+🌐 GitHub: [SCodeTeamDev](https://github.com/SCodeTeamDev)  
+🌐 Site: https://scode.ufersa.dev.br/
 
